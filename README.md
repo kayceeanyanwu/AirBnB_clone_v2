@@ -1,10 +1,8 @@
 # 0x02. AirBnB clone - MySQL
 
 ## Authors
-## Authors
-Kelechi Anyanwu - [Github](https://github.com/kayceeanyanwu) / [LinkedIn](https://www.linkedin.com/in/kayceeanyanwu)  
-<<<<<<< HEAD
-Nnenna Kalu Alie - [Github] (https://github.com/Kalunnenna1) 
+Kelechi Anyanwu - [Github](https://github.com/kayceeanyanwu) / [LinkedIn](https://www.linkedin.com/in/kayceeanyanwu) 
+Nnenna Kalu Alie - [Github] (https://github.com/Kalunnenna1) / https://www.linkedin.com/in/nnenna-kalu-alie-365600108/
 
 # Background Context
 Environment variables will be your best friend for this project!
