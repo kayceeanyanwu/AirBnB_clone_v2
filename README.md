@@ -3,6 +3,7 @@
 ## Authors
 ## Authors
 Kelechi Anyanwu - [Github](https://github.com/kayceeanyanwu) / [LinkedIn](https://www.linkedin.com/in/kayceeanyanwu)  
+<<<<<<< HEAD
 Nnenna Kalu Alie - [Github] (https://github.com/Kalunnenna1) / 
 
 # Background Context
@@ -426,6 +427,9 @@ To make this link working, we will create a third table called place_amenity tha
 
 And you are good, you have a new engine!
 Repo:
+=======
+Nnenna Kalu Alie - [Github] (https://github.com/Kalunnenna1)
+>>>>>>> 4ad397aefcbc23bd862d9b2274b4c480257dce25
 
 GitHub repository: AirBnB_clone_v2
 File: models/amenity.py, models/place.py
