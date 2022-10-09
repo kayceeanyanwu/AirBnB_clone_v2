@@ -1,7 +1,7 @@
 # 0x02. AirBnB clone - MySQL
 
 ## Authors
-Kelechi Anyanwu - [Github](https://github.com/kayceeanyanwu) / [LinkedIn](https://www.linkedin.com/in/kayceeanyanwu) 
+Kelechi Anyanwu - [Github](https://github.com/kayceeanyanwu) / [LinkedIn](https://www.linkedin.com/in/kayceeanyanwu) & 
 Nnenna Kalu Alie - [Github] (https://github.com/Kalunnenna1) / https://www.linkedin.com/in/nnenna-kalu-alie-365600108/
 
 # Background Context
